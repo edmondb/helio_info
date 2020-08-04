@@ -4,7 +4,8 @@ Below are some resources currated by the mentors of the Helio HackWeek 2020 for 
 
 ### ML Resources
 
-- (online) [Machine Learning, Statistics, and Data Mining for Heliophysics](https://helioml.org/title) _by Monica Bobra and James Mason_
+- (online, free) [Machine Learning, Statistics, and Data Mining for Heliophysics](https://helioml.org/title) _by Monica Bobra and James Mason_
+- (online, free) [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) _by Michael Nielsen_
 
 ### Python Programming
 
