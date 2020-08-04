@@ -15,8 +15,8 @@ Below are some resources currated by the mentors of the Helio HackWeek 2020 for 
 
 ### GPU Programming
 
-- [RAPIDS](https://rapids.ai/start.html)
-- [NVIDIA: Cuda Python Programming](https://developer.nvidia.com/how-to-cuda-python)
+- (Free; Online) [RAPIDS](https://rapids.ai/start.html) - [Docs](https://docs.rapids.ai/)
+- (Free; Online) [NVIDIA: Cuda Python Programming](https://developer.nvidia.com/how-to-cuda-python)
 
 ### Miscellaneous
 
