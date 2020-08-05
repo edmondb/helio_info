@@ -1,5 +1,7 @@
 # Resources of Heliophysics Research
 
+[Helio Hackweek 2020 Collection of Python Classes](https://astg606.github.io/py_courses/helio_hw2020/) _by Jules Kouatchou and co._
+
 Below are some resources currated by the mentors of the Helio HackWeek 2020 for use by all.
 
 ### Recent Articles
