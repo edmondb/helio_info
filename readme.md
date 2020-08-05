@@ -13,6 +13,10 @@ Below are some resources currated by the mentors of the Helio HackWeek 2020 for 
 - (Free; Online) [__Python Data Science Handbook:__ Chapter 5 - Machine Learning](https://jakevdp.github.io/PythonDataScienceHandbook/05.00-machine-learning.html) _by Jake VanderPlas_
   - [Resources](https://jakevdp.github.io/PythonDataScienceHandbook/05.15-learning-more.html)
 - (Free; Online) [The Difference Between, AI, Machine Learning, and Deep Learning](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
+- (Free; Online) [Deep Learning with Python](https://livebook.manning.com/book/deep-learning-with-python/chapter-1/) _by François Chollet_
+  - [Book](https://www.manning.com/books/deep-learning-with-python)
+- (Free; Online) [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) _by Christopher Olah_
+- (Free; Online) [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf) _by Sergey Ioffe and Christian Szegedy_
 
 ### Python Programming
 
@@ -32,3 +36,6 @@ Below are some resources currated by the mentors of the Helio HackWeek 2020 for 
 ### Miscellaneous
 
 - (Free; Online) [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) _by Nam Vu_
+- (Free; Online) [HelioAnalytics: Heliophysics + Machine Learning + Statistics + Information Design](https://sites.google.com/view/helioanalytics/home) _by The Center for HelioAnalytics_
+  - [Resources](https://sites.google.com/view/helioanalytics/resources)
+- (Free; Online Journal) [Machine Learning Research Should Be Clear, Dynamic and Vivid. __Distill__ Is Here to Help.](https://distill.pub/)
