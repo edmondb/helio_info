@@ -15,6 +15,8 @@ Below are some resources currated by the mentors of the Helio HackWeek 2020 for 
 - (Free; Online) [The Difference Between, AI, Machine Learning, and Deep Learning](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
 - (Free; Online) [Deep Learning with Python](https://livebook.manning.com/book/deep-learning-with-python/chapter-1/) _by François Chollet_
   - [Book](https://www.manning.com/books/deep-learning-with-python)
+- (Free; Online) [Deep Learning for Science School 2019](https://www.youtube.com/playlist?list=PL20S5EeApOSvfvEyhCPOUzU7zkBcR5-eL) _Hosted by Computing Sciences at Berkeley Lab_
+  - [DL4SCI 2020; More Advanced](https://www.youtube.com/playlist?list=PL20S5EeApOSuFC7PhHtCWtCsqpNKXM64Q)
 - (Free; Online) [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) _by Christopher Olah_
 - (Free; Online) [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf) _by Sergey Ioffe and Christian Szegedy_
 
