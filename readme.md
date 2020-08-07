@@ -29,6 +29,8 @@ Below are some resources currated by the mentors of the Helio HackWeek 2020 for 
 - (Free; Online) [PyTorch - Start Locally](https://pytorch.org/get-started/locally/)
   - [Tutorials](https://pytorch.org/tutorials/)
   - [Documentation](https://pytorch.org/docs/stable/index.html)
+- (Free; Online) [SunPy - Examples Gallery](https://docs.sunpy.org/en/stable/generated/gallery/index.html)
+- (Free; Online) [HelioPy - Examples Gallery](https://docs.heliopy.org/en/latest/auto_examples/index.html)
 
 ### Mission-Specific
 
