@@ -2,6 +2,14 @@
 
 Below are some resources currated by the mentors of the Helio HackWeek 2020 for use by all.
 
+__Contents__
+
+1. [Introductory Programming Material](#introductory-programming-material)
+2. [Intermediate Scientific Programming Material](intermediate-scientific-programming-material)
+3. [ML Resources](#ml-resources)
+
+---
+
 ### Recent
 
 - (Free; Online) [Helio Hackweek 2020 Collection of Python Classes](https://astg606.github.io/py_courses/helio_hw2020/) _by Jules Kouatchou, ASTG_
@@ -44,11 +52,6 @@ Below are some resources currated by the mentors of the Helio HackWeek 2020 for 
 - Package Development in Python
   - [Python Packaging User Guide](https://packaging.python.org/)
 - Python Programming with Databases
-  
-
----
-
-# HackWeek-Specific Material
 
 ### ML Resources
 
