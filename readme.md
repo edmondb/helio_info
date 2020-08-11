@@ -22,6 +22,8 @@ __Contents__
   - (Free; Online) [Official Python Docs](https://docs.python.org/)
   - (Free; Online) [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
   - (Free; Online) [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
+  - ($29.99; Online) [Learn Python 3 the Hard Way](https://learncodethehardway.org/python/)
+  - (Free; Online) [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - __Jupyter Notebooks__
   - (Free; Online) [ASTG Courses - Starting Point](https://github.com/astg606/py_courses/tree/master/helio_hw2020#starting-point) (requires Gmail account)
   - (Free; Online) [Jupyter Notebook Official Docs](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
@@ -47,13 +49,14 @@ __Contents__
 
 - Numerical Modeling in Python
 - API Development in Python
-  - [Designing a RESTFul API with Python and Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
+  - (Free; Online) [Designing a RESTFul API with Python and Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 - Frontend Development in Python
-  - [Flask](https://palletsprojects.com/p/flask/)
-  - [Django](https://www.djangoproject.com/start/)
-  - [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+  - (Free; Online) [Flask](https://palletsprojects.com/p/flask/)
+  - (Free; Online) [Django](https://www.djangoproject.com/start/)
+  - (Free; Online) [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+  - ($39; Online) [The New and Improved Flask Mega-Tutorial](https://courses.miguelgrinberg.com/p/flask-mega-tutorial)
 - Package Development in Python
-  - [Python Packaging User Guide](https://packaging.python.org/)
+  - (Free; Online) [Python Packaging User Guide](https://packaging.python.org/)
 - Python Programming with Databases
 
 ## Machine Learning Resources
@@ -69,6 +72,7 @@ __Contents__
   - [DL4SCI 2020; More Advanced](https://www.youtube.com/playlist?list=PL20S5EeApOSuFC7PhHtCWtCsqpNKXM64Q)
 - (Free; Online) [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) _by Christopher Olah_
 - (Free; Online) [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf) _by Sergey Ioffe and Christian Szegedy_
+- (Free; Online) [JAX: Training a Simple Neural Network, with tensorflow/datasets Data Loading](https://colab.research.google.com/github/google/jax/blob/master/docs/notebooks/neural_network_with_tfds_data.ipynb)
 
 ### Python Programming
 
@@ -79,6 +83,7 @@ __Contents__
   - [Documentation](https://pytorch.org/docs/stable/index.html)
 - (Free; Online) [SunPy - Examples Gallery](https://docs.sunpy.org/en/stable/generated/gallery/index.html)
 - (Free; Online) [HelioPy - Examples Gallery](https://docs.heliopy.org/en/latest/auto_examples/index.html)
+- (Free; Online) [Jax](https://github.com/jakevdp/jax)
 
 ### Mission-Specific
 
