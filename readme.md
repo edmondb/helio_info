@@ -1,12 +1,32 @@
 # Resources of Heliophysics Research
 
-[Helio Hackweek 2020 Collection of Python Classes](https://astg606.github.io/py_courses/helio_hw2020/) _by Jules Kouatchou and co._
-
 Below are some resources currated by the mentors of the Helio HackWeek 2020 for use by all.
 
-### Recent Articles
+### Recent
 
+- [Helio Hackweek 2020 Collection of Python Classes](https://astg606.github.io/py_courses/helio_hw2020/) _by Jules Kouatchou, ASTG_
 - [FDL Geoeffectiveness Project to Predict Space Weather Impacts](https://blogs.nvidia.com/blog/2020/08/04/nasa-geoeffectiveness/)
+
+## Introductory Programming Material
+
+- Python Programming
+- Jupyter Notebooks
+- Git/GitHub
+- Programming Practices
+- Linux/Unix OS terminal/command-line
+- Virtual Environments
+
+## Intermediate Scientific Programming Material
+
+- Numerical Modeling in Python
+- API Development in Python
+- Frontend Development in Python
+- Package Development in Python
+- Python Programming with Databases
+
+---
+
+# HackWeek-Specific Material
 
 ### ML Resources
 
