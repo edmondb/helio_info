@@ -48,6 +48,7 @@ __Contents__
 ## Intermediate Scientific Programming Material
 
 - Numerical Modeling in Python
+  - (Free; Online) [PyCFD: a Pythonic introduction to computational fluid dynamics](http://ohllab.org/CFD_course/index.html)
 - API Development in Python
   - (Free; Online) [Designing a RESTFul API with Python and Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 - Frontend Development in Python
