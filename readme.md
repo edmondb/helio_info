@@ -9,26 +9,26 @@ Below are some resources currated by the mentors of the Helio HackWeek 2020 for 
 
 ## Introductory Programming Material
 
-- Python Programming
+- __Python Programming__
   - (Free; Online) [ASTG Courses - Intro to Python](https://github.com/astg606/py_courses/tree/master/helio_hw2020#introduction-to-python) (requires Gmail account)
   - (Free; Online) [Official Python Docs](https://docs.python.org/)
   - (Free; Online) [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
   - (Free; Online) [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
-- Jupyter Notebooks
+- __Jupyter Notebooks__
   - (Free; Online) [ASTG Courses - Starting Point](https://github.com/astg606/py_courses/tree/master/helio_hw2020#starting-point) (requires Gmail account)
-- Git/GitHub
+- __Git/GitHub__
   - (Free; Online) [ASTG Courses - Starting Point](https://github.com/astg606/py_courses/tree/master/helio_hw2020#starting-point) (requires Gmail account)
   - (Free; Online) [Git - Documentation](https://git-scm.com/doc)
   - (Free; Online) [GitHub for Beginners: Don't Get Scared, Get Started](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
-- Programming Practices
+- __Programming Practices__
   - (Free; Online) [ASTG Courses - Python Coding Standards](https://colab.research.google.com/github/astg606/py_materials/blob/master/coding_standards/introduction_coding_standards.ipynb)
   - (Free; Online) [Python Package: Black](https://black.readthedocs.io/en/stable/)
   - (Free; Online) [PyCodeStyle](https://pycodestyle.pycqa.org/en/latest/intro.html)
   - (Free; Online) [The Hitchhiker's Guide to Python](https://docs.python-guide.org/writing/style/)
-- Linux/Unix OS terminal/command-line
+- __Linux/Unix OS terminal/command-line__
   - (Free; Online) [Unix/Linux: What is a Shell?](https://www.thegeekdiary.com/unix-linux-what-is-a-shell-what-are-different-shells/)
   - (Free; Online) [Profiles and RC Files](https://www.linuxjournal.com/content/profiles-and-rc-files)
-- Virtual Environments
+- __Virtual Environments__
   - (Free; Online) [Real Python: Python Virtual Environments - A Primer](https://realpython.com/python-virtual-environments-a-primer/)
   - (Free; Online) [The Hitchhiker's Guide to Python](https://docs.python-guide.org/dev/virtualenvs/)
 
