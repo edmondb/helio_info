@@ -6,7 +6,7 @@ __Contents__
 
 1. [Introductory Programming Material](#introductory-programming-material)
 2. [Intermediate Scientific Programming Material](intermediate-scientific-programming-material)
-3. [ML Resources](#ml-resources)
+3. [Machine Learning Resources](#machine-learning-resources)
 
 ---
 
