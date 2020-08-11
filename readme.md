@@ -24,10 +24,13 @@ __Contents__
   - (Free; Online) [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - __Jupyter Notebooks__
   - (Free; Online) [ASTG Courses - Starting Point](https://github.com/astg606/py_courses/tree/master/helio_hw2020#starting-point) (requires Gmail account)
+  - (Free; Online) [Jupyter Notebook Official Docs](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
+  - (Free; Online) [Real Python](https://realpython.com/jupyter-notebook-introduction/)
 - __Git/GitHub__
   - (Free; Online) [ASTG Courses - Starting Point](https://github.com/astg606/py_courses/tree/master/helio_hw2020#starting-point) (requires Gmail account)
   - (Free; Online) [Git - Documentation](https://git-scm.com/doc)
   - (Free; Online) [GitHub for Beginners: Don't Get Scared, Get Started](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
+  - (Free; Online) [GitHub Features](https://github.com/features)
 - __Programming Practices__
   - (Free; Online) [ASTG Courses - Python Coding Standards](https://colab.research.google.com/github/astg606/py_materials/blob/master/coding_standards/introduction_coding_standards.ipynb)
   - (Free; Online) [Python Package: Black](https://black.readthedocs.io/en/stable/)
@@ -53,7 +56,7 @@ __Contents__
   - [Python Packaging User Guide](https://packaging.python.org/)
 - Python Programming with Databases
 
-### ML Resources
+## Machine Learning Resources
 
 - (Free; Online) [Machine Learning, Statistics, and Data Mining for Heliophysics](https://helioml.org/title) _by Monica Bobra and James Mason_
 - (Free; Online) [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) _by Michael Nielsen_
