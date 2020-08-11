@@ -44,11 +44,15 @@ __Contents__
 - __Virtual Environments__
   - (Free; Online) [Real Python: Python Virtual Environments - A Primer](https://realpython.com/python-virtual-environments-a-primer/)
   - (Free; Online) [The Hitchhiker's Guide to Python](https://docs.python-guide.org/dev/virtualenvs/)
+- __Vizualizations__
+  - (Free; Online) [matplotlib](https://matplotlib.org/)
+  - (Free; Online) [PyViz](https://pyviz.org/)
 
 ## Intermediate Scientific Programming Material
 
 - Numerical Modeling in Python
   - (Free; Online) [PyCFD: a Pythonic introduction to computational fluid dynamics](http://ohllab.org/CFD_course/index.html)
+  - (Free; Online) [CFD Python: 12 steps to Navier-Stokes](https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
 - API Development in Python
   - (Free; Online) [Designing a RESTFul API with Python and Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 - Frontend Development in Python
@@ -59,6 +63,8 @@ __Contents__
 - Package Development in Python
   - (Free; Online) [Python Packaging User Guide](https://packaging.python.org/)
 - Python Programming with Databases
+  - (Free; Online) [PostgreSQL/psycopg2](https://www.psycopg.org/docs/usage.html)
+  - (Free; Online) [MongoDB/PyMongo](https://pymongo.readthedocs.io/en/stable/tutorial.html)
 
 ## Machine Learning Resources
 
@@ -75,7 +81,7 @@ __Contents__
 - (Free; Online) [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf) _by Sergey Ioffe and Christian Szegedy_
 - (Free; Online) [JAX: Training a Simple Neural Network, with tensorflow/datasets Data Loading](https://colab.research.google.com/github/google/jax/blob/master/docs/notebooks/neural_network_with_tfds_data.ipynb)
 
-### Python Programming
+## Machine Learning Python Programming
 
 - (Free; Online) [TensorFlow](https://www.tensorflow.org/)
   - [Tutorials](https://www.tensorflow.org/tutorials)
@@ -86,14 +92,12 @@ __Contents__
 - (Free; Online) [HelioPy - Examples Gallery](https://docs.heliopy.org/en/latest/auto_examples/index.html)
 - (Free; Online) [Jax](https://github.com/jakevdp/jax)
 
-### Mission-Specific
-
-### GPU Programming
+## GPU Programming
 
 - (Free; Online) [RAPIDS](https://rapids.ai/start.html) - [Docs](https://docs.rapids.ai/)
 - (Free; Online) [NVIDIA: Cuda Python Programming](https://developer.nvidia.com/how-to-cuda-python)
 
-### Miscellaneous
+## Miscellaneous
 
 - (Free; Online) [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) _by Nam Vu_
 - (Free; Online Journal) [Machine Learning Research Should Be Clear, Dynamic and Vivid. __Distill__ Is Here to Help.](https://distill.pub/)
