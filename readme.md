@@ -33,6 +33,7 @@ __Contents__
   - (Free; Online) [Git - Documentation](https://git-scm.com/doc)
   - (Free; Online) [GitHub for Beginners: Don't Get Scared, Get Started](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
   - (Free; Online) [GitHub Features](https://github.com/features)
+  - (Free; Online) [GitHub Guide](https://kbroman.org/github_tutorial/) _by Karl Broman_
 - __Programming Practices__
   - (Free; Online) [ASTG Courses - Python Coding Standards](https://colab.research.google.com/github/astg606/py_materials/blob/master/coding_standards/introduction_coding_standards.ipynb)
   - (Free; Online) [Python Package: Black](https://black.readthedocs.io/en/stable/)
