@@ -72,6 +72,7 @@ __Contents__
 ### Concepts:
 - (Free; Online) [How to prepare your career for artificial intelligence driven automation](https://machinelearnings.co/how-to-prepare-your-career-for-artificial-intelligence-driven-automation-1bb153759b3b)
 - (Free; Online) [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- (Free; Online) [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 
 ### Programming/Use:
 - (Free; Online) [Machine Learning, Statistics, and Data Mining for Heliophysics](https://helioml.org/title) _by Monica Bobra and James Mason_
