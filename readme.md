@@ -69,6 +69,11 @@ __Contents__
 
 ## Machine Learning Resources
 
+### Concepts:
+- (Free; Online) [How to prepare your career for artificial intelligence driven automation](https://machinelearnings.co/how-to-prepare-your-career-for-artificial-intelligence-driven-automation-1bb153759b3b)
+- (Free; Online) [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+### Programming/Use:
 - (Free; Online) [Machine Learning, Statistics, and Data Mining for Heliophysics](https://helioml.org/title) _by Monica Bobra and James Mason_
 - (Free; Online) [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) _by Michael Nielsen_
 - (Free; Online) [__Python Data Science Handbook:__ Chapter 5 - Machine Learning](https://jakevdp.github.io/PythonDataScienceHandbook/05.00-machine-learning.html) _by Jake VanderPlas_
