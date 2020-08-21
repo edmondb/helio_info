@@ -103,6 +103,7 @@ __Contents__
 
 - (Free; Online) [RAPIDS](https://rapids.ai/start.html) - [Docs](https://docs.rapids.ai/)
 - (Free; Online) [NVIDIA: Cuda Python Programming](https://developer.nvidia.com/how-to-cuda-python)
+- (Free; Online) [CUPY GTC Fall Code - Matthew Nicely](https://github.com/mnicely/gtc_fall)
 
 ## Miscellaneous
 
