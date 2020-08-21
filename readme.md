@@ -106,6 +106,7 @@ __Contents__
 - (Free; Online) [CUPY GTC Fall Code - Matthew Nicely](https://github.com/mnicely/gtc_fall)
   - ($90; Online) [Fundamentals of Accelerated Computing with CUDA Python](https://courses.nvidia.com/courses/course-v1:DLI+C-AC-02+V1/about)
   - (Free; Online) [rapidsai/cusignal](https://github.com/rapidsai/cusignal)
+- (Free; Online) [ASTG Courses - Numba](https://astg606.github.io/py_courses/helio_hw2020/) (requires Gmail account)
 
 ## Miscellaneous
 
