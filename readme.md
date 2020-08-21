@@ -104,6 +104,8 @@ __Contents__
 - (Free; Online) [RAPIDS](https://rapids.ai/start.html) - [Docs](https://docs.rapids.ai/)
 - (Free; Online) [NVIDIA: Cuda Python Programming](https://developer.nvidia.com/how-to-cuda-python)
 - (Free; Online) [CUPY GTC Fall Code - Matthew Nicely](https://github.com/mnicely/gtc_fall)
+  - ($90; Online) [Fundamentals of Accelerated Computing with CUDA Python](https://courses.nvidia.com/courses/course-v1:DLI+C-AC-02+V1/about)
+  - (Free; Online) [rapidsai/cusignal](https://github.com/rapidsai/cusignal)
 
 ## Miscellaneous
 
