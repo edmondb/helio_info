@@ -4,16 +4,27 @@ Below are some resources currated by the mentors of the Helio HackWeek 2020 for 
 
 __Contents__
 
+1. [HackWeek QuickLinks](#quick-links)
 1. [Introductory Programming Material](#introductory-programming-material)
 2. [Intermediate Scientific Programming Material](intermediate-scientific-programming-material)
 3. [Machine Learning Resources](#machine-learning-resources)
 
 ---
 
-### Recent
+### Recent & In the News
 
 - (Free; Online) [Helio Hackweek 2020 Collection of Python Classes](https://astg606.github.io/py_courses/helio_hw2020/) _by Jules Kouatchou, ASTG_
 - [FDL Geoeffectiveness Project to Predict Space Weather Impacts](https://blogs.nvidia.com/blog/2020/08/04/nasa-geoeffectiveness/)
+
+## Quick Links
+
+[Main Website](https://heliohackweek.github.io/) | [GitHub](https://github.com/heliohackweek) | [Schedule](https://drive.google.com/file/d/1cpIljnvDdZhBQ6tWTHWB2vh0hDJNXX7p/view?usp=sharing) | [Wiki](https://heliohackweek.github.io/wiki/index.html)
+
+__Training Sessions:__
+- [ASTG - Google Colab](https://astg606.github.io/py_courses/helio_hw2020/) | Pandas: [Notebook](https://colab.research.google.com/github/astg606/py_materials/blob/master/pandas/introduction_pandas.ipynb) | [Recording](https://drive.google.com/file/d/1DeHrm_RJYHFDnFRmDKa-a_2OjPodE1gy/view?usp=sharing) _by Jules Kouatchou, ASTG_
+- NVIDIA - Keras/Tensorflow: Slides | [Recording](https://drive.google.com/file/d/18OgJZUcCiACun0uRN2CfoA8vANKXaTG6/view?usp=sharing) _by David Hall_
+- NVIDIA - CUDA/CuPy: Slides | [Recording](https://drive.google.com/file/d/1KVqin43pJVeaPt-aRPruL6he5OvVAoQ3/view?usp=sharing) _by Matthew Nicely_
+- NVIDIA - RAPIDS/Dask: Slides | [Recording](https://drive.google.com/file/d/12Jer4wtM82MBtag7MDhJKOKaQxRoQoVo/view?usp=sharing) _by Zahra Ronaghi_
 
 ## Introductory Programming Material
 
@@ -102,11 +113,18 @@ __Contents__
 ## GPU Programming
 
 - (Free; Online) [RAPIDS](https://rapids.ai/start.html) - [Docs](https://docs.rapids.ai/)
-- (Free; Online) [NVIDIA: Cuda Python Programming](https://developer.nvidia.com/how-to-cuda-python)
-- (Free; Online) [CUPY GTC Fall Code - Matthew Nicely](https://github.com/mnicely/gtc_fall)
+- Cuda:
+  - (Free; Online) [NVIDIA: Cuda Python Programming](https://developer.nvidia.com/how-to-cuda-python)
+  - [Intro Cuda](https://developer.nvidia.com/blog/even-easier-introduction-cuda/)
+  - [Cuda refresher/Getting started with Cuda](https://developer.nvidia.com/blog/cuda-refresher-getting-started-with-cuda/)
+  - [Grid-Stride Loops](http://alexminnaar.com/2019/08/02/grid-stride-loops.html)
+- (Free; Online) [CuPy GTC Fall Code - Matthew Nicely](https://github.com/mnicely/gtc_fall)
   - ($90; Online) [Fundamentals of Accelerated Computing with CUDA Python](https://courses.nvidia.com/courses/course-v1:DLI+C-AC-02+V1/about)
   - (Free; Online) [rapidsai/cusignal](https://github.com/rapidsai/cusignal)
-- (Free; Online) [ASTG Courses - Numba](https://astg606.github.io/py_courses/helio_hw2020/) (requires Gmail account)
+- Numba:
+  - (Free; Online) [ASTG Courses - Numba](https://astg606.github.io/py_courses/helio_hw2020/) (requires Gmail account)
+  - [Thread Positioning on GPU with Numba](https://numba.pydata.org/numba-doc/latest/cuda/kernels.html)
+- [Princeton - GPU Programming Intro](https://github.com/PrincetonUniversity/gpu_programming_intro)
 
 ## Miscellaneous
 
