@@ -133,3 +133,4 @@ __Training Sessions:__
   - [Suggestion: Feature Visualization - How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/) _by Christopher Olah, Alexander Mordvintsev, and Ludwig Schubert_
 - (Free; Online) [HelioAnalytics: Heliophysics + Machine Learning + Statistics + Information Design](https://sites.google.com/view/helioanalytics/home) _by The Center for HelioAnalytics_
   - [Resources](https://sites.google.com/view/helioanalytics/resources)
+- (Free; Online) [Photutils](https://photutils.readthedocs.io/en/stable/): Python package for detecting and performing photometry of astronomical sources.
