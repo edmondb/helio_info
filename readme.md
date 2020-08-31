@@ -81,6 +81,7 @@ __Training Sessions:__
 ## Machine Learning Resources
 
 ### Concepts:
+- (Free; Online) [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - (Free; Online) [How to prepare your career for artificial intelligence driven automation](https://machinelearnings.co/how-to-prepare-your-career-for-artificial-intelligence-driven-automation-1bb153759b3b)
 - (Free; Online) [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - (Free; Online) [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
